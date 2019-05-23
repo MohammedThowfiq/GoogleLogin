@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1063490996980",
+    "firebase_url": "https://login-bf8db.firebaseio.com",
+    "project_id": "login-bf8db",
+    "storage_bucket": "login-bf8db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063490996980:android:e194b259c3032e09",
+        "android_client_info": {
+          "package_name": "com.example.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063490996980-km5ffnb0s4rrbf7bjie8pdn6rmgifc44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlelogin",
+            "certificate_hash": "ca8e1798f701e593f28b94b7fb1b41baadf283f4"
+          }
+        },
+        {
+          "client_id": "1063490996980-murhm26u89csf1plvcv9ih1hbu1gvcbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLUwZrjWrrlbC9Gd0-GNxFfDrKz_VYfQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063490996980-murhm26u89csf1plvcv9ih1hbu1gvcbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
